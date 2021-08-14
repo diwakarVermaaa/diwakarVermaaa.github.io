@@ -1,2 +1,1 @@
-# diwakar.github.io
-My Portfolio Website
+# Portfolio
